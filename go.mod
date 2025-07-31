@@ -1,4 +1,4 @@
-module github.com/Alatec/CCSDS
+module github.com/Alatec/ccsds
 
 go 1.23.4
 
